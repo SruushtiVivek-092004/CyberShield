@@ -34,3 +34,20 @@ To improve cybersecurity awareness and help users recognize and avoid online thr
 - Sakshi Sachin Kurbet
 - Bhakti Redekar
 - Pooja Kompi
+
+## Screenshots
+
+### Interface Page
+![Interface Page](interface_page.png)
+
+### Phishing Game
+![Phishing Game](phising_game.png)
+
+### Game 1
+![Game 1](game1.png)
+
+### Game 2
+![Game 2](game2.png)
+
+### Game 3
+![Game 3](game3.png)
